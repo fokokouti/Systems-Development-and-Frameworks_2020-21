@@ -166,9 +166,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Boris Foko Kouti - [@your_twitter](https://twitter.com/your_username) - fokoboris@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/fokokouti/Systems-Development-and-Frameworks_2020-21.git](https://github.com/fokokouti/Systems-Development-and-Frameworks_2020-21.git)
 
 
 
